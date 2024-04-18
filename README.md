@@ -6,7 +6,7 @@ The aim of this workshop is to access different pieces of data from a JSON objec
 This is an essential skill, one example of it in use is when interacting with different APIs to display
 data in the front end of an application.
 
-## GETTING STARTED
+## Getting started
 
 To make life simpler all of the functions have already been created for you in the index.js file. As has your JSON data which
 can be found in the data folder under superheroes.json. In addition to this the object has been imported for you into the
