@@ -21,23 +21,23 @@ from each function.
 
 Work through each of the following tasks to find the relevant data:
 
-## TASK 1 - getSquadName
+TASK 1 - getSquadName
 
 - use the getSquadName function and return the name of the superhero squad from the superheroes object
 
-## Task 2 - getMemberNames
+Task 2 - getMemberNames
 
 - use the getMemberNames function and return an array containing the name of each member in the squad
 
-## Task 3 - getMoleculeManHeight
+Task 3 - getMoleculeManHeight
 
 - use the getMoleculeManHeight function and return an object with the label height and Molecule Man's height
 
-## Task 4 - getMadameUpperCutAge
+Task 4 - getMadameUpperCutAge
 
 - use the getMadameUpperCutAge function and return Madame Uppercuts age
 
-## Task 5 - getEternalFlamePowers
+Task 5 - getEternalFlamePowers
 
 - use the getEternalFlamePowers function to return an array of Eternal Flames powers
 
