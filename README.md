@@ -6,7 +6,7 @@ The aim of this workshop is to access different pieces of data from a JSON objec
 This is an essential skill, one example of it in use is when interacting with different APIs to display
 data in the front end of an application.
 
--- GETTING STARTED --
+## GETTING STARTED
 
 To make life simpler all of the functions have already been created for you in the index.js file. As has your JSON data which
 can be found in the data folder under superheroes.json. In addition to this the object has been imported for you into the
@@ -17,7 +17,7 @@ from each function.
 
 - Tip: if you want to isolate just the function you are working on, add .only to the relevant test in the test file
 
--- Tasks --
+## Tasks
 
 Work through each of the following tasks to find the relevant data:
 
