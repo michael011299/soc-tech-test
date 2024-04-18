@@ -1,5 +1,3 @@
-Accessing Data workshop
-
 ## Welcome to the Accessing Data workshop!
 
 The aim of this workshop is to access different pieces of data from a JSON object and return their values.
